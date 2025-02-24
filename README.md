@@ -19,7 +19,7 @@ The repository is organized as follows:
 To use IntelPolicies, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/IntelPolicies.git
+    git clone https://github.com/nishantsaini55/IntelPolicies.git
     ```
 2. Navigate to the project directory:
     ```bash
